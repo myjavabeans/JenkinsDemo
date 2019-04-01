@@ -30,7 +30,7 @@ zoom: 0.75;
 </head>
 <body>
 
-	<h2>Jenkins Demo App v3</h2>
+	<h2>Jenkins Demo App v4</h2>
 	
 	<p>The time on the Server is ${serverTime}.</p>
 
